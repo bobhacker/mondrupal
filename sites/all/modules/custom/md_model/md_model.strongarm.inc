@@ -65,13 +65,13 @@ function md_model_strongarm() {
     'name' => 'French',
     'native' => 'Français',
     'direction' => '0',
-    'enabled' => 1,
+    'enabled' => '1',
     'plurals' => '2',
     'formula' => '($n>1)',
     'domain' => '',
     'prefix' => 'fr',
     'weight' => '0',
-    'javascript' => 'QmrnGbvmd8gAWLX84U-fb_bWsbf7bpiRGQrlCS1oN-k',
+    'javascript' => 'HIAw_0nA0g9mlFoq7ipJ4m59R_QOWyx14l1pXEeaAXg',
   );
   $export['language_default'] = $strongarm;
 
