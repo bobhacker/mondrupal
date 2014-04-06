@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the MonDrupal Model feature.
+ */
+
+include_once 'md_model.features.inc';
