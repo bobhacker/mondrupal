@@ -1,0 +1,5 @@
+name = MonDrupal User
+description = Gestion générale des utilisateurs MonDrupal.
+core = 7.x
+package = MonDrupal
+version = 7.x-1.0
