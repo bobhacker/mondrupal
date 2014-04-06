@@ -3,3 +3,4 @@ description = Gestion générale des modules MonDrupal.
 core = 7.x
 package = MonDrupal
 version = 7.x-1.0
+dependencies[] = md_model
