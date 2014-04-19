@@ -1,7 +1,5 @@
 <?php
 /**
  * @file
- * Code for the MonDrupal Model feature.
+ * Drupal needs this blank file.
  */
-
-include_once 'md_model.features.inc';
